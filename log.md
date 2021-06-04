@@ -1,1 +1,1 @@
-
+#Day 1: So today i kicked of my 100 days of code and i worked on a project called the time series analysis forecast. I was able to learn two models to make forecast and they are the Baseline model and the Autoregressive Integrated moving Average (ARIMA). My aim basically is to clean the data remove outliers and forecast the total number if female births in California. 
